@@ -1,6 +1,7 @@
 {
   "name": "ng-test-library",
   "version": "0.0.1",
+  "schematics": "./schematics/collection.json",
   "peerDependencies": {
     "@angular/common": "^10.1.5",
     "@angular/core": "^10.1.5"
